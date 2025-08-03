@@ -6,4 +6,4 @@ print("Hello my name is bhavesh patidar")
 print("New line add")
 print("New line add1")
 #Hello this is time commit
-prin("This is time commit2")
+pri("This is time commit2")
